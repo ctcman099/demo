@@ -1,0 +1,16 @@
+{
+    "name": "ex2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "stats": "node stats.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "ethers": "^6.9.0",
+      "web3": "^4.2.2"
+    }
+  }
+  
