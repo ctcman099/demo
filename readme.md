@@ -1,8 +1,7 @@
 ## How to run
 
 ### Demonstration of current stats
-npm install
-npm run stats
+npm install && npm run stats
 
 
 ### Demonstration of how current stats could lead to attack
